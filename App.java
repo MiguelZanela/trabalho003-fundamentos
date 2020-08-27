@@ -32,7 +32,7 @@ public class App {
 
                 System.out.println("Record No - " + csvRecord.getRecordNumber());
                 System.out.println("---------------");
-                System.out.println("Placa : " + placa);
+                System.out.println("Placa do carro: " + placa);
                 System.out.println("Marca : " + marca);
                 System.out.println("Cor : " + cor);
                 System.out.println("Categoria : " + categoria);
